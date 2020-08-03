@@ -1,3 +1,5 @@
+![Image 1](image.png)
+
 ## Team Members
 Armand Marino (amarino6@gatech.edu),
 Anthony Marshall (amarshall43@gatech.edu),
