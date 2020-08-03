@@ -1,9 +1,9 @@
 ## Team Members
-Armand Marino - amarino6@gatech.edu - amarino6
-Anthony Marshall - amarshall43@gatech.edu - amarshall43
-Ryan Pratt - rpratt6@gatech.edu - rpratt6
-Spencer Shook - sshook8@gatech.edu - sshook8
-Zachary Hussin - zhussin@gatech.edu - zhussin3
+Armand Marino (amarino6@gatech.edu),
+Anthony Marshall (amarshall43@gatech.edu),
+Ryan Pratt (rpratt6@gatech.edu),
+Spencer Shook (sshook8@gatech.edu),
+Zachary Hussin (zhussin@gatech.edu)
 
 ## Installation
 No special installation required, just run the Desentience application file located in the Build folder.
